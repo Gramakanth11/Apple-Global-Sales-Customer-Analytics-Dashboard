@@ -46,6 +46,4 @@ Built an interactive Power BI dashboard to analyze Apple’s global sales data, 
 - Lower customer ratings are associated with higher return rates
 - Digital payment methods dominate online sales channels
 
----
 
-## 📁 Project Structure
