@@ -20,6 +20,12 @@ Built an interactive Power BI dashboard to analyze Apple’s global sales data, 
 
 ---
 
+## Dashboard Overview
+<img width="1336" height="757" alt="business_insight" src="https://github.com/user-attachments/assets/c648c8eb-7937-41fb-aa22-c7415cf8e6a2" />
+
+
+---
+
 ##  Key KPIs
 - **Total Revenue (USD)**
 - **Units Sold**
